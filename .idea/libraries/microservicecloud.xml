@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microservicecloud">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
